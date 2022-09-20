@@ -11,4 +11,5 @@ func main() {
 	firut 2
 
 	fitur login
+	fitur register
 }
