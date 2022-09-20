@@ -5,3 +5,9 @@ func main() {
 
 	TOMBOL LOGIN
 }
+
+
+
+func NEWMASTER(){
+	BUTTON MASTER
+}
